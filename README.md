@@ -1,5 +1,5 @@
-# 🎮 Hello! 👋     
-* Rock Paper Scissors (Python)      
+# Hello! 👋     
+* 🎮 Rock Paper Scissors (Python)      
 
 A simple Rock — Paper — Scissors console game written in Python.    
 The computer makes a random choice, the game runs forever, and only stops when you type end.     
