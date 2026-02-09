@@ -14,10 +14,10 @@ while True:
     if you == str(gg) :
         print("Ничья")
     elif (you == 1 and gg == 3) or (you == 2 and gg == 1) or (you == 3 and gg == 2):
-        print("WIN")
+        print("YOU WIN")
         count += 1
     else:
-        print("LOSE")
+        print("YOU LOSE")
         game_count += 1
 
 
